@@ -3,4 +3,3 @@ moviepy
 transformers
 torch
 whisper
-pip install streamlit moviepy transformers torch whisper
