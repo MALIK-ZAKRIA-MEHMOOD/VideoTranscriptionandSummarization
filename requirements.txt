@@ -1,0 +1,6 @@
+moviepy
+transformers
+torch
+streamlit
+whisper
+streamlit run app.py
