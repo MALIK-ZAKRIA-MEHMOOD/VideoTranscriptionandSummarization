@@ -1,8 +1,5 @@
 import streamlit as st
-import moviepy.editor as mp
-from transformers import BartForConditionalGeneration, BartTokenizer
-import torch
-import whisper
+
 
 # Load Whisper model for transcription
 whisper_model = whisper.load_model("base")
