@@ -1,6 +1,6 @@
+streamlit
 moviepy
 transformers
 torch
-streamlit
 whisper
-streamlit run app.py
+pip install streamlit moviepy transformers torch whisper
